@@ -8,6 +8,8 @@ const locations = [
     whatsapp: "+923028510584",
     map: "https://goo.gl/maps/Ky9tSJjTJjXLegk97",
     path: "/peoples-colony",
+    hours: "Tue–Sun, 11am–8pm",
+    image: "/images/locations/peoples-colony.jpg",
   },
   {
     id: 2,
@@ -15,9 +17,11 @@ const locations = [
     address: "17-B, Jail Road, Faisalabad",
     phone: "0309 4445820",
     landline: "041 2409261",
-    whatsapp: "+9203094445820",
+    whatsapp: "+923094445820",
     map: "https://goo.gl/maps/BdsLYFhoG6i4U9XP6",
     path: "/jail-road",
+    hours: "Tue–Sun, 11am–8pm",
+    image: "/images/locations/jail-road.jpg",
   },
   {
     id: 3,
@@ -28,6 +32,8 @@ const locations = [
     whatsapp: "+923094445830",
     map: "https://goo.gl/maps/78NMgvzf7ViiUbvt7",
     path: "/canal-road",
+    hours: "Tue–Sun, 11am–8pm",
+    image: "/images/locations/canal-road.jpg",
   },
 ];
 

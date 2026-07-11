@@ -12,7 +12,7 @@ function Hero() {
             Your signature look, <em>found here.</em>
           </h1>
           <p className="hero-text">
-            From bridal day to everyday, Signature by Eram brings skilled hands
+            From bridal day to everyday, Signature by Shiza brings skilled hands
             and a calm space to hair, skin, nails and makeup — across three
             branches in Faisalabad.
           </p>

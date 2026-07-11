@@ -3,7 +3,7 @@ import '../styles/Locations.css';
 
 function Locations() {
   return (
-    <section className="section locations-section">
+    <section className="section locations-section" id="locations">
       <div className="section-head">
         <div className="section-label">Find us</div>
         <h2 className="section-title">
